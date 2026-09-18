@@ -135,3 +135,4 @@ Thêm một trang mới:
 - JUnit XML: `test-results/junit.xml` (dùng cho CI)
 - Khi test fail: tự động lưu screenshot, video và trace trong `test-results/`
 - Xem trace: `npx playwright show-trace test-results/<tên-test>/trace.zip`
+---------Thanh Huong
